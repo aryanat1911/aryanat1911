@@ -33,6 +33,6 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=js,express,nextjs,react,c,cpp,docker,kubernetes,aws,nodejs,figma,git,vscode,cloudflare,html,css,vim,nginx,grafana,prometheus,python,sass,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,deno,cloudflare,bash,solidity&theme=light)](https://skillicons.dev)
 
-[linkedin]: https://www.linkedin.com/in/Aryan-khan-b4b83b125/ "LinkedIn"
-[twitter]: https://twitter.com/aryanat1911 "Twitter"
+[linkedin]: https://www.linkedin.com/in/aryan-khan-aaba6721a/ "LinkedIn"
+[twitter]: https://twitter.com/AryanKh77599846 "Twitter"
 [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=aryanat1911&theme=react-dark)](https://github.com/aryanat1911)
