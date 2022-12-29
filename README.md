@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 [linkedin]: https://www.linkedin.com/in/aryan-khan-aaba6721a/ "LinkedIn"
 [twitter]: https://twitter.com/AryanKh77599846 "Twitter"
-[![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=aryanat1911&theme=react-dark)](https://github.com/aryanat1911)
+<!-- [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=aryanat1911&theme=react-dark)](https://github.com/aryanat1911) -->
