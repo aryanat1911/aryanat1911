@@ -6,7 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="left" id="Aryan-title">:wave: Hello there! I'm Aryan</h1>
-<h3 align="left">Currently Building Lineupx </h3>
+<a href="https://www.lineupx.com/" target="_blank">
+<h3 align="left">Currently Building LineupX </h3>
+</a>
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aryanat1911&color=brightgreen">  
 <a href="#Aryan-title">
