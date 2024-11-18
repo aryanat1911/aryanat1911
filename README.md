@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aryanat1911&color=brightgreen">  
 <a href="#Aryan-title">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aryanat1911&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Aryan Khan" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanat1911&theme=dark" alt="Aryan Khan" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
