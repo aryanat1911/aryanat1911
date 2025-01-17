@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=aryanat1911&color=brightgreen">  
 <a href="#Aryan-title">
-  ![aryanat1911's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanat1911&theme=vue-dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanat1911&theme=vue-dark&hide_border=true"/>
 </a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
