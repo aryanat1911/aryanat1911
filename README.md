@@ -10,11 +10,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Currently Building <a href="https://www.lineupx.com/" target="_blank"> LineupX </a></h3>
 
 
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=aryanat1911&color=brightgreen">  
-<a href="#Aryan-title">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanat1911&theme=vue-dark&hide_border=true"/>
-</a>
-
 - :office: &nbsp;I'm currently working at **Lineupx**
 - :speech_balloon: &nbsp;I like to talk about **React**, **React Native** , **JavaScript**, **Nodejs** ,**AI/ML**, **AWS** and **DevOps**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
