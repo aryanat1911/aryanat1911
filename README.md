@@ -17,12 +17,14 @@ You can click the Preview link to take a look at your changes.
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 
 <br>
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanat1911)]([https://github.com/aryanat1911/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph))
+
 <h2 align="left" id="Aryan-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
 [![My Skills](https://skillicons.dev/icons?i=js,express,nextjs,react,c,cpp,docker,kubernetes,aws,nodejs,figma,git,vscode,cloudflare,html,css,vim,nginx,grafana,prometheus,python,sass,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,deno,cloudflare,bash,solidity&theme=light)](https://skillicons.dev)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [linkedin]: https://www.linkedin.com/in/aryan-khan-aaba6721a/ "LinkedIn"
 [twitter]: https://twitter.com/AryanKh77599846 "Twitter"
