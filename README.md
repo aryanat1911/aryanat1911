@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=js,express,nextjs,react,c,cpp,docker,kubernetes,aws,nodejs,figma,git,vscode,cloudflare,html,css,vim,nginx,grafana,prometheus,python,sass,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,deno,cloudflare,bash,solidity&theme=light)](https://skillicons.dev)
 
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanat1911)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanat1911&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [linkedin]: https://www.linkedin.com/in/aryan-khan-aaba6721a/ "LinkedIn"
 [twitter]: https://twitter.com/AryanKh77599846 "Twitter"
