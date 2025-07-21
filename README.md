@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 
 <br>
-[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanat1911)](https://github.com/aryanat1911/github-readme-activity-graph)
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanat1911)]([https://github.com/aryanat1911/github-readme-activity-graph](https://github.com/ashutosh00710/github-readme-activity-graph))
 <h2 align="left" id="Aryan-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
