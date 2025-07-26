@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aryanat1911&theme=dark)](https://git.io/streak-stats)
+
 <br>
 
 [![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanat1911&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
